@@ -17,7 +17,7 @@ export default class WeatherSearch extends Component {
 
     // search function
     search(key) {
-        fetch('http://api.openweathermap.org/data/2.5/weather?q=' + key + '&appid=212ba6f4ef8b933b4a957f59b8522352&units=metric').then((response) => {
+        fetch('http://api.openweathermap.org/data/2.5/weather?q=' + key + '&appid={API key}&units=metric').then((response) => {
             response.json().then((data) => {
                 if (data.length > 0) {
                     this.setState({ searchData: [data] });
