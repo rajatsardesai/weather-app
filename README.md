@@ -2,11 +2,11 @@
 
 ![alt text](https://user-images.githubusercontent.com/29860438/105280098-04b10500-5bcf-11eb-9801-296d82c0e9a1.JPG)
 
-<img src="https://user-images.githubusercontent.com/29860438/105280101-067ac880-5bcf-11eb-9b8b-8cb1fef01295.JPG" width="400" />
+<img src="https://user-images.githubusercontent.com/29860438/105280101-067ac880-5bcf-11eb-9b8b-8cb1fef01295.JPG" width="300" />
 
 ![alt text](https://user-images.githubusercontent.com/29860438/105280102-07135f00-5bcf-11eb-8eba-03afdca014e6.JPG)
 
-<img src="https://user-images.githubusercontent.com/29860438/105280105-07abf580-5bcf-11eb-9b6b-a409b4544b9d.JPG" width="400" />
+<img src="https://user-images.githubusercontent.com/29860438/105280105-07abf580-5bcf-11eb-9b6b-a409b4544b9d.JPG" width="300" />
 
 # Getting Started with Create React App
 
